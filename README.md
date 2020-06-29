@@ -1,6 +1,10 @@
 # Text-Utils
-A tool for analyzing text data in Django back-end
+A tool for analyzing text data in Django back-end.
+
 It is a simple django project or website in which we can Analyze text.
+
+![2Capture](images/2Capture.PNG)
+
 
 ## What Can We do from textutils ?
 **1.** Remove Punctuations
